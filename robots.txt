@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://izucioso.github.io/FHQ/sitemap_index.txt
+Sitemap: https://izucioso.github.io/RVm/sitemap_index.txt
+Sitemap: https://izucioso.github.io/bod/sitemap_index.txt
+Sitemap: https://izucioso.github.io/jLX/sitemap_index.txt
